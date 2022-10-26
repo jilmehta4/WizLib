@@ -1,0 +1,17 @@
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\bin\Debug\net6.0\WizLib_DataAccess.deps.json
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\bin\Debug\net6.0\WizLib_DataAccess.runtimeconfig.json
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\bin\Debug\net6.0\WizLib_DataAccess.dll
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\bin\Debug\net6.0\WizLib_DataAccess.pdb
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\bin\Debug\net6.0\WizLib_Model.dll
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\bin\Debug\net6.0\WizLib_Model.pdb
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.csproj.AssemblyReference.cache
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.AssemblyInfoInputs.cache
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.AssemblyInfo.cs
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.csproj.CopyComplete
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.dll
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\refint\WizLib_DataAccess.dll
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.pdb
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\WizLib_DataAccess.genruntimeconfig.cache
+E:\ASP.NET Core\c##\WizLib\WizLib_DataAccess\obj\Debug\net6.0\ref\WizLib_DataAccess.dll

@@ -1,0 +1,12 @@
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\bin\Debug\net6.0\WizLib_Model.deps.json
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\bin\Debug\net6.0\WizLib_Model.dll
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\bin\Debug\net6.0\WizLib_Model.pdb
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.csproj.AssemblyReference.cache
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.AssemblyInfoInputs.cache
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.AssemblyInfo.cs
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.dll
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\refint\WizLib_Model.dll
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\WizLib_Model.pdb
+E:\ASP.NET Core\c##\WizLib\WizLib_Model\obj\Debug\net6.0\ref\WizLib_Model.dll
