@@ -4,28 +4,28 @@
 
 namespace WizLib_DataAccess.Migrations
 {
-    public partial class removeGenreTableFromDb : Migration
+    public partial class ChangeTableAndColumnNamesOfGenreTb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropTable(
-                name: "Genres");
-        }
-
-        protected override void Down(MigrationBuilder migrationBuilder)
-        {
             migrationBuilder.CreateTable(
-                name: "Genres",
+                name: "tb_Genre",
                 columns: table => new
                 {
                     GenreId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    GenreName = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Genres", x => x.GenreId);
+                    table.PrimaryKey("PK_tb_Genre", x => x.GenreId);
                 });
+        }
+
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropTable(
+                name: "tb_Genre");
         }
     }
 }
